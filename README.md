@@ -1,16 +1,20 @@
-## Hi there 👋
+**Hey there! 🙋‍♂️**\
+I'm [Anthony](https://morile-livez.xyz/), a web developer based in Nigeria.
 
-<!--
-**moriletech000/moriletech000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I basically design and build whatever i can imagine or get inspiration from random projects.
 
-Here are some ideas to get you started:
+Mostly work on frontend stuffs - React, Tailwind, and a bit of Javascript for animation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've got pinned projects you can check out!
+
+---
+
+**Tools & Tech**\
+**~** React, Tailwind, Javascript\
+**~** Zed, VScode, Kiro
+
+---
+
+**Fun Facts:**\
+**~** I love cooking\
+**~** **Hobbies:** anime, games, creating and building things
