@@ -10,11 +10,11 @@ I've got pinned projects you can check out!
 ---
 
 **Tools & Tech**\
-**~** React, Tailwind, Javascript\
-**~** Zed, VScode, Kiro
+• React, Tailwind, Javascript\
+• Zed, VScode, Kiro
 
 ---
 
 **Fun Facts:**\
-**~** I love cooking\
-**~** **Hobbies:** anime, games, creating and building things
+• I love cooking\
+• **Hobbies:** anime, games, creating and building things
