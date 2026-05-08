@@ -38,6 +38,7 @@ Feel free to check out some of my pinned projects below.
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
