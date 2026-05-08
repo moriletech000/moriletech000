@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello, I'm Anthony 👋</h1>
+  <h1>Hello, I'm Anthony </h1>
   <p><strong>Web Developer based in Nigeria</strong></p>
   <p><em>Building whatever I can imagine or get inspiration from.</em></p>
 </div>
 
 ---
 
-### 🔵 About me
+###  About me
 
 I basically design and build whatever I can imagine or get inspiration from random projects. 
 
@@ -16,7 +16,7 @@ I've got pinned projects you can check out!
 
 ---
 
-## 🔵 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="left">
 
@@ -38,10 +38,10 @@ I've got pinned projects you can check out!
 
 ---
 
-### 🔵 Fun Facts & Hobbies
+###  Fun Facts & Hobbies
 
-- 🍳 **Cooking:** I love experimenting with recipes in the kitchen.
-- 🎮 **Hobbies:** Anime, gaming, and constantly finding new things to create and build.
+-  **Cooking:** I love experimenting with recipes in the kitchen.
+-  **Hobbies:** Anime, gaming, and constantly finding new things to create and build.
 
 ---
 
